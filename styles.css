@@ -1,0 +1,17 @@
+.hidden-section {
+    display: none;
+}
+
+#storyError {
+    display: none;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .card {
+        margin-bottom: 15px;
+    }
+}
